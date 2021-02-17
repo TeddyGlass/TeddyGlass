@@ -3,6 +3,7 @@
 </div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TeddyGlass&show_icons=true&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TeddyGlass&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2 align="left">Languages and Tools</h2>
 <p align="left">
