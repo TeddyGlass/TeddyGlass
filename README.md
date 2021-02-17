@@ -4,10 +4,12 @@
 </div>
 -->
 
+<h2 align="center">Statistics</h2>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TeddyGlass&show_icons=true&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TeddyGlass&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<h2 align="left">Languages and Tools</h2>
+<h2 align="center">Languages and Tools</h2>
 <p align="center">
   <a href="https://www.python.org" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
