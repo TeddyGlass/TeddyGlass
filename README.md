@@ -1,6 +1,8 @@
+<!--
 <div align="center">
   <img width="700" alt="title" src="https://user-images.githubusercontent.com/39366279/108032128-56856780-7075-11eb-8bba-c12306a00db9.png">
 </div>
+-->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TeddyGlass&show_icons=true&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TeddyGlass&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
